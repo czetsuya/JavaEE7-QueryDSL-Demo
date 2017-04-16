@@ -1,20 +1,19 @@
 javaee-querydsl-demo: Assortment of technologies including Arquillian
 ========================
-Author: Pete Muir
+Author: Edward Legaspi
 Level: Intermediate
 Technologies: CDI, JSF, JPA, EJB, JPA, JAX-RS, BV
 Summary: An example that incorporates multiple technologies
 Target Project: WildFly
-Source: <https://github.com/wildfly/quickstart/>
+Source: https://github.com/czetsuya/JavaEE7-QueryDSL-Demo
 
 What is it?
 -----------
 
-This is your project! It is a sample, deployable Maven 3 project to help you get your foot in the door developing with Java EE 7 on JBoss WildFly.
+This project integrates QueryDSL to your JavaEE7 project.
 
 This project is setup to allow you to create a compliant Java EE 7 application using JSF 2.2, CDI 1.1, EJB 3.3, JPA 2.1 and Bean Validation 1.1. It includes a persistence unit and some sample persistence and transaction code to introduce you to database access in enterprise Java.
 
-There is a tutorial for this quickstart in the [Getting Started Developing Applications Guide](https://github.com/wildfly/quickstart/guide/javaee-querydsl-demo/).
 
 System requirements
 -------------------
